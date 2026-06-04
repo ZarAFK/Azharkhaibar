@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azhar Khaibar</h1>
+<h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate about UI/UX & Scalable Systems</h3>
 
 <p align="center">
