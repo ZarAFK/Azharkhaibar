@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zarr%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20System%20Builder&descAlignY=60&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ZarAFK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20System%20Builder&descAlignY=60&descSize=18&descColor=a78bfa" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Azhar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Crafting+Scalable+%26+Beautiful+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Golang;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+ZarAFK+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Crafting+Scalable+%26+Beautiful+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Golang;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=azharkhaibar&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ZarAFK&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
 &nbsp;
-<a href="https://github.com/azharkhaibar?tab=followers">
-  <img src="https://img.shields.io/github/followers/azharkhaibar?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" />
+<a href="https://github.com/ZarAFK?tab=followers">
+  <img src="https://img.shields.io/github/followers/ZarAFK?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" />
 </a>
 
 </div>
@@ -23,8 +23,8 @@
 <img align="right" width="320" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding GIF" />
 
 ```typescript
-const azhar = {
-  name     : "Azhar Khaibar",
+const zarr = {
+  name     : "ZarAFK",
   role     : "Full Stack Developer",
   location : "Indonesia 🇮🇩",
 
@@ -91,10 +91,10 @@ const azhar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azharkhaibar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=azharkhaibar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZarAFK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZarAFK&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
   <br/><br/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharkhaibar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarAFK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ const azhar = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azharkhaibar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZarAFK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ const azhar = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=azharkhaibar&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZarAFK&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -119,8 +119,8 @@ const azhar = {
 
 <div align="center">
 
-[![WhaleCinema](https://github-readme-stats.vercel.app/api/pin/?username=azharkhaibar&repo=whalecinema&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/azharkhaibar)
-[![FYPMedia](https://github-readme-stats.vercel.app/api/pin/?username=azharkhaibar&repo=fypmedia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/azharkhaibar)
+[![WhaleCinema](https://github-readme-stats.vercel.app/api/pin/?username=ZarAFK&repo=whalecinema&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/ZarAFK)
+[![FYPMedia](https://github-readme-stats.vercel.app/api/pin/?username=ZarAFK&repo=fypmedia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/ZarAFK)
 
 </div>
 
@@ -130,10 +130,10 @@ const azhar = {
 
 <div align="center">
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/azharkhaibar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azharkhaibar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azharkhaibar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azharkhaibar)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ZarAFK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZarAFK)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZarAFK)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZarAFK)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allionorap89@gmail.com)
 
 </div>
@@ -144,7 +144,7 @@ const azhar = {
 
 **💜 Support My Work**
 
-<a href="https://www.buymeacoffee.com/azharkhaibar">
+<a href="https://www.buymeacoffee.com/ZarAFK">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
